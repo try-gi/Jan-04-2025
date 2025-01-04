@@ -1,0 +1,20 @@
+li{
+    display: inline;
+    
+}
+
+ul{
+    text-align: right;
+}
+
+img{
+    border-radius: 500px;
+    position: sticky;
+    bottom: 50px;
+}
+
+nav{
+    background-color: green;
+    position: fixed;
+    top: 10px;
+}
