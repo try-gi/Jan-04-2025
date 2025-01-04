@@ -29,3 +29,26 @@ tr:nth-child(odd){
     background-color: lightgreen;
 }
 
+span{
+    display: block;
+    display: none;
+}
+
+li{
+    display: inline;
+    padding: 50px;
+        
+}
+
+p{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    
+}
+
+h1{
+    position: fixed;
+    bottom: 0px;
+}
+
